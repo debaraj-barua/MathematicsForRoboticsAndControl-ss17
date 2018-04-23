@@ -1,0 +1,6 @@
+\BOOKMARK [1][-]{section.1}{Hochschule Bonn-Rhein-Sieg}{}% 1
+\BOOKMARK [1][-]{section.2}{Mathematics for Robotics and Control, SS17}{}% 2
+\BOOKMARK [1][-]{section.3}{Assignment 6: Ordinary Differential Equations}{}% 3
+\BOOKMARK [2][-]{subsubsection.3.0.1}{1. Solve the following ordinary differential equations by hand and verify your results using SymPy [20]}{section.3}% 4
+\BOOKMARK [3][-]{subsubsection.3.0.2}{Numerical methods for solving differential equations [50]}{subsubsection.3.0.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.0.3}{Verification using SymPy and application of initial conditions [10]}{subsubsection.3.0.1}% 6
